@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://vocabking.herokuapp.com/parse",
+      "appId": "vocabking",
+      "masterKey": "kingpass",
+      "appName": "vocabking"
+    }
+  ],
+  "users": [
+    {
+      "user":"admin",
+      "pass":"adminmaster"
+    }
+  ]
+}
